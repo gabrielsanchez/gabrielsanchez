@@ -9,3 +9,5 @@ I am a software engineer, musician and data scientist who loves to travel. Durin
 **Favorite food:** Mexican, Italian, Indian, Lebanese.
 
 **Favorite programming languages:** SuperCollider, Python, Scheme, R.
+
+**Hobbies**: Skating, gaming (specially RPG's), movies, etc.
