@@ -6,8 +6,8 @@ I am a software engineer, musician and data scientist who loves to travel. Durin
 
 **Countries I've been to:** US, Canada, Mexico, Sweden, South Africa, England, and Swaziland.
 
-**Favorite food:** Mexican, Italian, Indian, Lebanese.
+**Favorite food:** Mexican, Italian, Indian, Lebanese, Texas BBQ.
 
-**Favorite programming languages:** SuperCollider, Python, Scheme, R.
+**Favorite programming languages:** SuperCollider, Python, Scheme, R. Interested in learning Julia lately.
 
 **Hobbies**: Skating, gaming (specially RPG's), movies, etc.
